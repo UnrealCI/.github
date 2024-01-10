@@ -1,4 +1,4 @@
-![UECI logo](./ueci-logo.svg)
+![UECI logo](./profile/ueci-logo.svg)
 
 # **U**nreal **E**ngine **C**ontinuous **I**ntergration
 
